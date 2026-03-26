@@ -29,10 +29,6 @@ ular graphs, where atoms are treated as nodes and chemical bonds as edges. This 
 allows for the application of Graph Neural Networks (GNNs), which are capable of learning
 hierarchical and structural features directly from the graph topology. The analysis for this is found in the part_two directory
 
-In this report, we benchmark and compare traditional machine learning models—Logistic Regres-
-sion, Support Vector Machine (SVM), Random Forest, and XGBoost—with graph-based approaches,
-including single-task GCN (st-GCN), multi-task GCN (mt-GCN), and Message Passing Neural Net-
-works (MPNN), to evaluate their effectiveness in predicting compound activity within the Tox21
-framework.
+In this report, we benchmark and compare traditional machine learning models, Logistic Regression, Support Vector Machine (SVM), Random Forest, and XGBoost, with graph-based approaches, including single-task GCN (st-GCN), multi-task GCN (mt-GCN), and Message Passing Neural Networks (MPNN), to evaluate their effectiveness in predicting compound activity within the Tox21 framework.
 
 > For full background, methodology, and evaluation details, please refer to the report Molecular_Properties_Prediction_Paper.pdf.
